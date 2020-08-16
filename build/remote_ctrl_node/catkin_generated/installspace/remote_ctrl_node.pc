@@ -1,0 +1,8 @@
+prefix=/home/ghowoght/workplace/myrobot/install
+
+Name: remote_ctrl_node
+Description: Description of remote_ctrl_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

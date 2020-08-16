@@ -1,0 +1,8 @@
+prefix=/home/ghowoght/workplace/myrobot/install
+
+Name: serial_node
+Description: Description of serial_node
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

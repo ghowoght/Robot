@@ -1,0 +1,2 @@
+remote_ctrl_node:rplidar_ros:serial_node
+-DCATKIN_DEVEL_PREFIX=/home/ghowoght/workplace/myrobot/devel -DCMAKE_INSTALL_PREFIX=/home/ghowoght/workplace/myrobot/install -G Unix Makefiles
