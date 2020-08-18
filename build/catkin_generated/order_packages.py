@@ -2,4 +2,4 @@
 source_root_dir = '/home/ghowoght/workplace/myrobot/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/home/ghowoght/catkin_ws/devel;/opt/ros/melodic'.split(';') if '/home/ghowoght/catkin_ws/devel;/opt/ros/melodic' != '' else []
+underlay_workspaces = '/home/ghowoght/workplace/myrobot/devel;/home/ghowoght/catkin_ws/devel;/opt/ros/melodic'.split(';') if '/home/ghowoght/workplace/myrobot/devel;/home/ghowoght/catkin_ws/devel;/opt/ros/melodic' != '' else []

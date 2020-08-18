@@ -1,0 +1,8 @@
+prefix=/home/ghowoght/workplace/myrobot/install
+
+Name: robot_x1
+Description: Description of robot_x1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: message_runtime

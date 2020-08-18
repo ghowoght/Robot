@@ -13,6 +13,7 @@ find_package(catkin REQUIRED COMPONENTS
   rospy
   serial
   std_msgs
+  tf
 )
 
 add_message_files(

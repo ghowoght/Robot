@@ -1,0 +1,5 @@
+<launch>
+  <include file="$(find robot_x1)/launch/rplidar.launch" />
+  <include file="$(find robot_x1)/param/slam_gmapping.xml" />
+  <include file="$(find robot_x1)/param/move_base.xml" />
+</launch>

@@ -134,6 +134,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/ghowoght/workplace/myrobot/build/remote_ctrl_node/cmake_install.cmake")
   include("/home/ghowoght/workplace/myrobot/build/serial_node/cmake_install.cmake")
   include("/home/ghowoght/workplace/myrobot/build/rplidar_ros/cmake_install.cmake")
+  include("/home/ghowoght/workplace/myrobot/build/robot_x1/cmake_install.cmake")
 
 endif()
 
